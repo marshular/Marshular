@@ -4,7 +4,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently learning QBCore Framework Development
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Constantly Exploring new scripts and finding new ways to optimize
 - 🎓 &nbsp; Studying at a trade school for Engineering.
 - 💼 &nbsp; Freelance FiveM Scripter
 - 🌱 &nbsp; Enthusiast in Artificial Intelligence.
