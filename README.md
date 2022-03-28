@@ -1,5 +1,5 @@
 <h2> Hey there! I'm WLVF. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://i.imgur.com/wRPO3hZ.png" width="500"/>
+<img align="right" alt="GIF" src="https://i.imgur.com/dsYiyKA.png" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
