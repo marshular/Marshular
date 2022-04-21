@@ -3,10 +3,10 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning QBCore Framework Development
+- 🔭 &nbsp; "Reaching For The Stars"
 - 🤔 &nbsp; Constantly Exploring new scripts and finding new ways to optimize
 - 🎓 &nbsp; Studying at a trade school for Engineering.
-- 💼 &nbsp; Freelance FiveM Scripter
+- 💼 &nbsp; Lead Developer of a FiveM server, Nodus
 - 🌱 &nbsp; Enthusiast in Artificial Intelligence.
 - ✍️ &nbsp; Watching Anime and trying my hand at breaking things.
 - ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress.
