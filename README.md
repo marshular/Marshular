@@ -2,6 +2,7 @@
 <a href="https://discord.com/users/785699347223412768">
   <img src="https://lanyard-profile-readme.vercel.app/api/409126512701210634?hideTimestamp=true&idleMessage=Not%20listening%20to%20anything%20at%20the%20moment..." align="right" />
 </a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=WLVF&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=87ceeb&text_color=FFFFFF&bg_color=0,1a1c1f,1a1c1f" alt="WLVF's Github Stats" align="right">
 
 <h3> 👨🏻‍💻 About Me </h3>
 
@@ -20,16 +21,10 @@
 - 🔧 &nbsp; Visual Studio Code | GitHub
 - 🖥 &nbsp; Photoshop | Illustrator | After Effects
 
-<br>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=WLVF&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="WLVF's Github Stats">
-
-</br>
-
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-<p align="center">
+<p align="left">
 &nbsp; <a href="https://twitter.com/TheWLVF" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
 &nbsp; <a href="https://www.twitch.com/TheWLVF/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitch.png" width="50" /></a>  
 &nbsp; <a href="mailto:wlvf@wlvf.dev" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png" width="50" /></a>
