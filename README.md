@@ -11,7 +11,7 @@
 - 💼 &nbsp; Lead Developer of a FiveM server, Nodus
 - 🌱 &nbsp; Enthusiast in Artificial Intelligence.
 - ✍️ &nbsp; Watching Anime and trying my hand at breaking things.
-- ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress.
+- ☕ &nbsp; A perfect cup of coffee is the ultimate solution for any stress.
 
 <h3>🛠 Tech Stack</h3>
 
