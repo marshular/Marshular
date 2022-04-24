@@ -1,4 +1,4 @@
-<h2> Hey there! I'm WLVF. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<h2> Hey there! I'm WLVF 👋</h2>
 <a href="https://discord.com/users/785699347223412768">
   <img src="https://lanyard-profile-readme.vercel.app/api/409126512701210634?hideTimestamp=true&idleMessage=Not%20listening%20to%20anything%20at%20the%20moment..." align="right" />
 </a>
