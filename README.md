@@ -15,9 +15,9 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Lua | Python
-- 🌐 &nbsp; MySQL | Xampp
-- 🔧 &nbsp; Visual Studio Code | Git
+- 💻 &nbsp; Lua | JavaScript | HTML
+- 🌐 &nbsp; MySQL | Xampp | Apache
+- 🔧 &nbsp; Visual Studio Code | GitHub
 - 🖥 &nbsp; Photoshop | Illustrator | After Effects
 
 <br>
