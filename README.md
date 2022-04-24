@@ -6,7 +6,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; "Reaching For The Stars"
-- 🤔 &nbsp; Constantly Exploring new scripts and finding new ways to optimize
+- 🤔 &nbsp; Constantly exploring new scripts and finding new ways to optimize
 - 🎓 &nbsp; Studying at a trade school for Engineering.
 - 💼 &nbsp; Lead Developer of a FiveM server, Nodus
 - 🌱 &nbsp; Enthusiast in Artificial Intelligence.
