@@ -8,7 +8,7 @@
 
 - 🔭 &nbsp; "Reaching For The Stars"
 - 🤔 &nbsp; Constantly exploring new scripts and finding new ways to optimize
-- 🎓 &nbsp; Studying at a trade school for Engineering.
+- 🎓 &nbsp; Studied at a trade school for Engineering.
 - 💼 &nbsp; FiveM Developer for a very popular YouTuber
 - 🌱 &nbsp; Enthusiast in Artificial Intelligence.
 - ✍️ &nbsp; Watching Anime and trying my hand at breaking things.
@@ -16,11 +16,10 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Lua | JavaScript | HTML
-- 🌐 &nbsp; MySQL | Xampp | Apache
+- 💻 &nbsp; Lua | JavaScript | HTML | CSS
+- 🌐 &nbsp; MySQL | Xampp
 - 🔧 &nbsp; Visual Studio Code | GitHub
-- 🖥 &nbsp; Photoshop | Illustrator | After Effects
-
+- 🖥 &nbsp; Photoshop | Premiere Pro | After Effects | Illustrator
 
 <h3> 🤝🏻 Connect with Me </h3>
 
