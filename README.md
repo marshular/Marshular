@@ -9,7 +9,7 @@
 - 🔭 &nbsp; "Reaching For The Stars"
 - 🤔 &nbsp; Constantly exploring new scripts and finding new ways to optimize
 - 🎓 &nbsp; Studying at a trade school for Engineering.
-- 💼 &nbsp; Lead Developer of a FiveM server, Nodus
+- 💼 &nbsp; FiveM Developer for a very popular YouTuber
 - 🌱 &nbsp; Enthusiast in Artificial Intelligence.
 - ✍️ &nbsp; Watching Anime and trying my hand at breaking things.
 - ☕ &nbsp; A perfect cup of coffee is the ultimate solution for any stress.
