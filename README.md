@@ -6,9 +6,7 @@
 
 <h3> 🦧 About Me </h3>
 
-- 🍴 &nbsp; I fork scripts?
-- 🏫 &nbsp; I go to school?
-- 💤 &nbsp; I sleep?
+- 🍴 &nbsp; I fork scripts.
 
 <h3>🛠 Tech Stack</h3>
 
