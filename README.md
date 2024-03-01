@@ -10,4 +10,4 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Uhh I don't code, I fork.
+- 🤓 &nbsp; Uhh I don't code, I fork.
